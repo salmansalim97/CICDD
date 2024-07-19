@@ -18,6 +18,8 @@
 	else{
 		g_form.setMandatory('description',true);
 	}
+	alert('hellow world');
+	
    
 }]]></script>
         <sys_class_name>sys_script_client</sys_class_name>
@@ -26,7 +28,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>fcf2722c53678210220ad301a0490eae</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>1</sys_mod_count>
         <sys_name>Test Script</sys_name>
         <sys_overrides/>
         <sys_package display_value="CICDD DemoApp" source="x_691406_cicdd_dem">11ac321453634210220ad301a0490e5d</sys_package>
@@ -34,7 +36,7 @@
         <sys_scope display_value="CICDD DemoApp">11ac321453634210220ad301a0490e5d</sys_scope>
         <sys_update_name>sys_script_client_fcf2722c53678210220ad301a0490eae</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-07-19 06:31:19</sys_updated_on>
+        <sys_updated_on>2024-07-19 08:19:40</sys_updated_on>
         <table>incident</table>
         <type>onLoad</type>
         <ui_type>0</ui_type>
